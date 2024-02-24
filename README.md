@@ -1,1 +1,1 @@
-Minhas soluções dos exercícios de SQL da plataforma HackerRank
+Saiba mais em meu [Portfólio](https://fenyx-forte.github.io/hackerrank_sql.html)
